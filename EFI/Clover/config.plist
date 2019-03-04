@@ -624,6 +624,22 @@
 				BgIAAAABAAAJAAAA
 				</data>
 			</dict>
+			<dict>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				QVBQTEUgU1NEAA==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>IOAHCIBlockStorage</string>
+				<key>Replace</key>
+				<data>
+				AAAAAAAAAAAAAA==
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>RtVariables</key>
